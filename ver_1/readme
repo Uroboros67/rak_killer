@@ -1,2 +1,5 @@
 without i2c and voltage measurement
 EasyEDA software
+BUTTON_PIN - P1.00
+SCL - P0.11
+SDA - P1.04
