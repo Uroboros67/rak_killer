@@ -8,6 +8,9 @@ The second ver_2 has PCB fields for two SMD 1206 resistors and a pinout directly
 
 ![IMG_20241109_134233](https://github.com/user-attachments/assets/51b732f3-c0c5-4e8d-bb65-0cf870212d62)
 
+The ver_2_WD has the HeartBeat impulse transferred to a pin 1.07 to control the external WatchDog chip.
+Unfortunately, the HeartBaet on the LED is inactive.
+
 Good luck :)
 
 Jacek SQ9ETV!
