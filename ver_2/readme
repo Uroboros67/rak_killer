@@ -1,5 +1,7 @@
 with i2c and voltage measurement
-EasyEDA software
+
 BUTTON_PIN - P1.01
+
 SCL - P1.04
+
 SDA - P1.06
