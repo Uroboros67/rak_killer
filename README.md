@@ -7,6 +7,9 @@ The second ver_2 has PCB fields for two SMD 1206 resistors and a pinout directly
 The ver_2_WD has the HeartBeat impulse transferred to a pin 1.07 to control the external WatchDog chip.
 Unfortunately, the HeartBaet on the LED is inactive.
 
+After uploading the modified bootloader, it is possible to upgrade the firmware via Bluetooth.
+You need the 'nRF Connect' program with MTU = 23 and the firmware.zip file
+
 Good luck :)
 
 Jacek SQ9ETV!
