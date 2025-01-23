@@ -1,4 +1,8 @@
+Wersja płytki V2 z modułem ProMicro nRF52840 zaktualizowana do wersji Soft Device 7.3.0
+V2 board version with ProMicro nRF52840 module updated to Soft Device 7.3.0
+
 with i2c and voltage measurement
+
 BUTTON_PIN - P1.01
 SCL - P1.04
 SDA - P1.06
