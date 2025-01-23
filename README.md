@@ -3,7 +3,7 @@ Breakout PCB do płytki Supermini/Promicro nRF52840 z modułem Heltec HT-RA62 Lo
 Wersja ver_2 ma pola PCB dla dwóch rezystorów SMD 1206 i układ pinów bezpośrednio pod i2c, jak INA219.
 
 Po wgraniu zmodyfikowanego bootloadera możliwa jest aktualizacja oprogramowania poprzez Bluetooth.
-Potrzebujesz programu „nRF Connect” z MTU = 23 i pliku firmware.zip
+Potrzebujesz programu „nRF Connect” z MTU = 23 i pliku firmware.zip lub program 'DFU' z liczbą pakietów ustawioną na 10.
 
 Powodzenia :)
 -
@@ -12,7 +12,7 @@ Breakout PCB for Supermini/Promicro nRF52840 board with Heltec HT-RA62 LoRa modu
 Version ver_2 has PCB fields for two SMD 1206 resistors and a pinout directly under i2c like INA219.
 
 After uploading the modified bootloader, it is possible to upgrade the firmware via Bluetooth.
-You need the 'nRF Connect' program with MTU = 23 and the firmware.zip file
+You need the 'nRF Connect' program with MTU = 23 and the firmware.zip file or 'DFU' program with the number of packets set to 10.
 
 Good luck :)
 -
