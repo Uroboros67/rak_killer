@@ -1,3 +1,5 @@
+MESHTASTIC
+
 Wersja płytki V2 z modułem ProMicro nRF52840 zaktualizowanym do Soft Device 7.3.0
 
 Pasuje tylko firmware skompilowany pod tą wersję SoftDevice !!!
