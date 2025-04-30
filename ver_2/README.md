@@ -11,3 +11,6 @@ BUTTON_PIN - P1.01
 SCL - P1.04
 
 SDA - P1.06
+
+Wersja WDT - wbudowany Watch Dog
+--------------------------------
