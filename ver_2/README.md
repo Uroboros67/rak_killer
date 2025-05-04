@@ -1,8 +1,8 @@
 MESHTASTIC
 
-Wersja płytki V2 z modułem ProMicro nRF52840 z oryginalną wersji Soft Device 6.1.1
+Wersja płytki V2 z modułem ProMicro nRF52840
 
-Version of the V2 board with the ProMicro nRF52840 module with the original Soft Device version 6.1.1
+Version of the V2 board with the ProMicro nRF52840
 
 with i2c and voltage measurement
 
