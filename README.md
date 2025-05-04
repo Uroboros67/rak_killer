@@ -5,13 +5,7 @@ W katalogu "bootloader" sa dwa pliki jeden oryginalny, drugi zmodyfikowany do wg
 Po wgraniu zmodyfikowanego bootloadera możliwa jest aktualizacja oprogramowania poprzez Bluetooth.
 Potrzebujesz programu „nRF Connect” z MTU = 23 i pliku firmware.zip lub program 'DFU' z liczbą pakietów ustawioną na 10.
 
-Katalog "SoftDevice" to pliki BIOS do układów nRF52. Wersja oryginalna znajdująca się w modułach ProMicro to s140 6.1.1.
-Najnowsza którą można wgrać to s140 7.3.0. Firmware Meshtastic nie jest zamienny, pod odpowiedni BIOS należy wgrać odpowiednią
-wersję firmwaru, albo z katalogu "ver_V2" albo "wer_V2_(SoftDevice7.3)". Polecam pozostać przy 6.1.1 aczkolwiek teoretycznie
-wersja 7.3.0 powinna mieć poprawki i być bardziej stabilna.
-
-Właściwy Firmware Meshtastic to katalogi "ver_V2" dla oryginalnych ProMicro bez modyfikacji BIOSu oraz "ver_V2_(SoftDevice7.3.0)
-dla ProMicro ze zmodyfikowanym BIOSem.
+Właściwy Firmware Meshtastic to katalogi "ver_V2" dla oryginalnych ProMicro.
 
 Powodzenia :)
 -
@@ -22,13 +16,7 @@ In the "bootloader" directory there are two original files, the other modified t
 After uploading a modified bootloader, it is possible to update the software via Bluetooth.
 You need "nrf Connect" from MTU = 23 and firmware.zip file or 'DFU' program with the number of packages set up to 10.
 
-The "Softdevice" directory is BIOS files for NRF52 systems. The original version in the Promicro modules is S140 6.1.1.
-The latest one can be uploaded is S140 7.3.0. Firmware meshtastic is not replacement, the appropriate bios should be uploaded to the appropriate BIOS
-Version of firmwar or from the "wer_V2" or "wer_V2_ (SoftDevice7.3) catalog". I recommend staying at 6.1.1 but theoretically
-Version 7.3.0 should have corrections and be more stable.
-
-The right firmware Meshtastic is "wer_V2" catalogs for the original Promicro without BIOS modification and "wer_V2_ (SoftDevice7.3.0)
-for Promicro with a modified BIOS.
+The right firmware Meshtastic is "wer_V2" catalogs for the original Promicro.
 
 Good luck :)
 -
