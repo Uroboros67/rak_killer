@@ -1,6 +1,6 @@
 MESHTASTIC
 
-Wersja płytki V2 z modułem ProMicro nRF52840
+Wersja płytki V2 z modułem ProMicro nRF52840 z ustawionym regionem EU868 i MediumFast
 
 Version of the V2 board with the ProMicro nRF52840
 
