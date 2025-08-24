@@ -2,8 +2,6 @@ W folderze standardowy bootloader Adafruit nRF52 i poprawka bootloadera do pracy
 
 FixOTA - MTU 10
 
-FastOTA - MTU 20
-
 In folder standard Adafruit nRF52 bootloader and bootloader fix to work with FOTA.
 
 a tu link do jeszcze lepszej wersji:
