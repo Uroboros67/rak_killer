@@ -3,7 +3,7 @@ z polami PCB dla dwóch rezystorów SMD 1206 i układ pinów bezpośrednio pod i
 
 W katalogu "bootloader" sa dwa pliki jeden oryginalny, drugi zmodyfikowany do wgrywania firmware po BT.
 Po wgraniu zmodyfikowanego bootloadera możliwa jest aktualizacja oprogramowania poprzez Bluetooth.
-Potrzebujesz programu „nRF Connect” z MTU = 23 i pliku firmware.zip lub program 'DFU' z liczbą pakietów ustawioną na 10.
+Potrzebujesz program 'DFU' z liczbą pakietów ustawioną na 10.
 
 Właściwy Firmware Meshtastic to katalogi "ver_V2" dla oryginalnych ProMicro.
 
@@ -14,7 +14,7 @@ with PCB fields for two SMD 1206 resistors and pins system directly under I2C, s
 
 In the "bootloader" directory there are two original files, the other modified to upload firmware after BT.
 After uploading a modified bootloader, it is possible to update the software via Bluetooth.
-You need "nrf Connect" from MTU = 23 and firmware.zip file or 'DFU' program with the number of packages set up to 10.
+You need 'DFU' program with the number of packages set up to 10.
 
 The right firmware Meshtastic is "wer_V2" catalogs for the original Promicro.
 
