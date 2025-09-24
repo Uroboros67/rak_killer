@@ -15,6 +15,4 @@ SDA - P1.06
 Wersja WDT - wbudowany Watch Dog
 --------------------------------
 
-Wersja WDT - standardowy restartujący sytem po 1 minucie od zawieszenia układu.
-
-Wersja WDT24 - cykliczny restart systemu co 24 godziny
+Wersja WDT - restartujący sytem po 1 minucie od zawieszenia układu.
