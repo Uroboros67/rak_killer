@@ -1,2 +1,2 @@
-MeshCore firmware z obsługą systemu plików ExtraLFS
+MeshCore firmware dla T114 z wyświetlaczem z obsługą systemu plików ExtraLFS
 
