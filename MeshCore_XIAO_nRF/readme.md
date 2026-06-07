@@ -1,1 +1,1 @@
-Soft MeshCore dla Xiao nRF - 750 kontaktów i RPT mod
+Soft MeshCore dla Xiao nRF - 510 kontaktów i RPT mod
